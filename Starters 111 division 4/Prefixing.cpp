@@ -1,5 +1,6 @@
-//Detailed notes written in hardcopy & notion
-// Problem Link - https://www.codechef.com/problems/FIX?tab=statement
+// Time Complexity - O(NLogN) , 
+// Looping N elements of array A, inside loop inserting in set NLogN
+// Space Complexity - O(unique elements) - using extra set to store values
 
 #include <bits/stdc++.h>
 using namespace std;
